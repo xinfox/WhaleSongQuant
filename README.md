@@ -1,1 +1,3 @@
-# WhaleSongQuantThis is a test file.
+# WhaleSongQuant
+
+该仓库为鲸歌量化先锋社的资源仓库，用以存储各种文章及草稿、示例数据、图表等资源。
